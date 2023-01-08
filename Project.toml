@@ -1,6 +1,6 @@
 name = "ExtendedDates"
 uuid = "78f5a1cc-aa73-4dda-b6b2-4d6b1976988f"
-authors = ["Lilith Hafner <Lilith.Hafner@gmail.com>", "MichelJuillard <michel.juillard@mjui.fr>", and contributors]
+authors = ["Lilith Hafner <Lilith.Hafner@gmail.com>", "MichelJuillard <michel.juillard@mjui.fr>"]
 version = "0.2.0"
 
 [deps]
