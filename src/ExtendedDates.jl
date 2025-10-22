@@ -4,9 +4,7 @@ using Reexport
 @reexport using Dates
 
 import Base: +, -, isfinite, isless, <, <=, :, print, show, ==, hash, convert, promote_rule, one
-import Dates: Date, year, toms, days, _units, value, validargs
-
-using Dates: UTInstant
+import Dates: Date, year, toms, days, _units, value, validargs, UTInstant
 using RecipesBase: RecipesBase, @recipe
 
 export period, frequency, subperiod, Undated,
